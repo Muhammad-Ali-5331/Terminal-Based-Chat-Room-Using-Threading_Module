@@ -61,4 +61,4 @@ server.bind((HOST_IP,HOST_PORT))
 server.listen()
 print("Server Listening.....")
 
-connect_clients()
+connect_clients() #Start The server to receive clients
